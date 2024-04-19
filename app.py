@@ -171,7 +171,7 @@ if __name__=="__main__":
     
     st.sidebar.text("\n")
 
-    st.sidebar.markdown(btndf('Home','https://github.com/Jainish-Jain'),unsafe_allow_html=True)
+    st.sidebar.markdown(btndf('Home','https://apppage-d5dsg7th4dilqlkvmaaxej.streamlit.app/'),unsafe_allow_html=True)
     
     st.sidebar.markdown("<br>"*5,unsafe_allow_html=True)
     st.sidebar.subheader("Connect with me :")
